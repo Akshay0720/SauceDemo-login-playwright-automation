@@ -33,6 +33,7 @@ The automation framework is developed using Playwright with JavaScript and follo
 
 saucedemo-login-playwright-automation
 │
+
 ├── tests
 │   └── login.spec.js
 │
